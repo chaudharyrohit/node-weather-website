@@ -1,3 +1,4 @@
+//comment added
 const weatherForm = document.querySelector('form')
 const addr = document.querySelector('input')
 
